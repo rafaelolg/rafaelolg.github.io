@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Data Bravata</title>
+    <link>http://rafaelolg.github.io/post/</link>
+    <description>Recent content in Posts on Data Bravata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 20 Jun 2016 02:08:07 -0300</lastBuildDate>
+    <atom:link href="http://rafaelolg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Teste A B</title>
+      <link>http://rafaelolg.github.io/post/teste_a_b/</link>
+      <pubDate>Mon, 20 Jun 2016 02:08:07 -0300</pubDate>
+      
+      <guid>http://rafaelolg.github.io/post/teste_a_b/</guid>
+      <description>&lt;p&gt;Invariávelmente um dia você se encontrará na situação de se perguntar: &amp;ldquo;E se eu alterar isso será que terei melhor resultado?&amp;rdquo;. Os chamados &lt;strong&gt;testes A/B&lt;/strong&gt; são ferramentas estatísticas para embasar esse tipo de decisão.&lt;/p&gt;
+
+&lt;p&gt;Os exemplos são sempre parecidos. Uma companhia tem um site com o anúncio de seu produto. Para um grupo de pessoas 10000 exibem um determinado anúncio e para outro grupo de 200 pessoas exibe-se outro tipo de anúncio. Os números de vendas foram diferentes para as diferentes campanhas. O seu objetivo é responder se vale a pena ou não alterar o tipo de campanha de maneira a aumentar as vendas.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Anúncio&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;n. pessoas&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;compradores&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;conversão&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;990&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;9.9%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;200&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;25&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12,5%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;É claro que 12,5% é maior do que 9,9%, mas será que estes números são o suficientes para por em risco a taxa de conversão com todos os clientes e trocar o tipo de anúncio?&lt;/p&gt;
+
+&lt;p&gt;Vamos começar com as nomenclaturas. O conjunto de amostras já com a taxa de conversão (ou qualquer índice de sucesso) conhecidas que estabelece o controle do experimento é grupo &lt;strong&gt;A&lt;/strong&gt;. O outro grupo com a diferença que experimentamos é o &lt;strong&gt;B&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
