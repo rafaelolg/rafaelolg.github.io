@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Data Bravata</title>
-    <link>http://rafaelolg.github.io/page/</link>
+    <link>https://rafaelolg.github.io/page/</link>
     <description>Recent content in Pages on Data Bravata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <atom:link href="http://rafaelolg.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafaelolg.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sobre</title>
-      <link>http://rafaelolg.github.io/page/sobre/</link>
+      <link>https://rafaelolg.github.io/page/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rafaelolg.github.io/page/sobre/</guid>
+      <guid>https://rafaelolg.github.io/page/sobre/</guid>
       <description>&lt;p&gt;&lt;img class=&#34;center-block&#34; src=&#34;https://s.gravatar.com/avatar/18fda1b153be70162748a45a5d317965?s=120&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;Olá meu meu nome é Rafael Lopes. Sou engenheiro de software, mestre em ciência da computação pela USP.&lt;/p&gt;
